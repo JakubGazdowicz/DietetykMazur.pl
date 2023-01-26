@@ -1,0 +1,9 @@
+<x-app-layout>
+    <x-home.hero></x-home.hero>
+    <x-home.certificates></x-home.certificates>
+    <x-home.about></x-home.about>
+    <x-home.offer></x-home.offer>
+    <x-home.food_diary></x-home.food_diary>
+    <x-home.first_visit></x-home.first_visit>
+    <x-home.contact></x-home.contact>
+</x-app-layout>
