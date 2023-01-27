@@ -8,7 +8,11 @@ module.exports = {
       './resources/**/*.vue',
   ],
   theme: {
-    extend: {},
+    extend: {
+        backgroundImage: {
+            'hero-pattern': "url('/img/omnietlo_test2.jpg')",
+        }
+    },
   },
   plugins: [require("./plugin")],
 }

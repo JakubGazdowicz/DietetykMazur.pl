@@ -601,12 +601,6 @@ input[type="radio"]:checked ~ .box .circle{
 .-bottom-7{
   bottom: -1.75rem;
 }
-.-left-8{
-  left: -2rem;
-}
-.-bottom-2{
-  bottom: -0.5rem;
-}
 .-top-10{
   top: -2.5rem;
 }
@@ -691,9 +685,6 @@ input[type="radio"]:checked ~ .box .circle{
 .mb-4{
   margin-bottom: 1rem;
 }
-.ml-2{
-  margin-left: 0.5rem;
-}
 .mb-12{
   margin-bottom: 3rem;
 }
@@ -708,6 +699,9 @@ input[type="radio"]:checked ~ .box .circle{
 }
 .mr-3{
   margin-right: 0.75rem;
+}
+.ml-2{
+  margin-left: 0.5rem;
 }
 .ml-4{
   margin-left: 1rem;
@@ -757,9 +751,6 @@ input[type="radio"]:checked ~ .box .circle{
 .h-\[2px\]{
   height: 2px;
 }
-.h-\[1px\]{
-  height: 1px;
-}
 .h-\[60px\]{
   height: 60px;
 }
@@ -786,9 +777,6 @@ input[type="radio"]:checked ~ .box .circle{
 }
 .w-full{
   width: 100%;
-}
-.w-8{
-  width: 2rem;
 }
 .w-\[300px\]{
   width: 300px;
@@ -929,6 +917,12 @@ input[type="radio"]:checked ~ .box .circle{
 .bg-opacity-5{
   --tw-bg-opacity: 0.05;
 }
+.bg-\[url\(\'\/img\/omnietlo_test\.jpg\'\)\]{
+  background-image: url('/img/omnietlo_test.jpg');
+}
+.bg-\[url\(\'\/img\/omnietlo_test2\.jpg\'\)\]{
+  background-image: url('/img/omnietlo_test2.jpg');
+}
 .fill-current{
   fill: currentColor;
 }
@@ -1054,6 +1048,9 @@ input[type="radio"]:checked ~ .box .circle{
 }
 .text-lg{
   font-size: 1.25rem;
+}
+.text-2xl{
+  font-size: 1.875rem;
 }
 .font-bold{
   font-weight: 700;
@@ -1936,10 +1933,6 @@ input[type="radio"]:checked ~ .box span{
 
   .lg\:w-10\/12{
     width: 83.333333%;
-  }
-
-  .lg\:w-1\/12{
-    width: 8.333333%;
   }
 
   .lg\:min-w-\[738px\]{

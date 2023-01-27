@@ -1,5 +1,6 @@
 <!-- ====== Hero Section Start -->
 <div class="relative pt-[60px] lg:pt-[80px] bg-white dark:bg-slate-800">
+{{--    <div class="bg-[url('/img/omnietlo_test.jpg')]"></div>--}}
     <div class="container">
         <div class="flex flex-wrap max-w-screen-xl ml-20">
             <div class="w-full lg:w-6/12 px-4">

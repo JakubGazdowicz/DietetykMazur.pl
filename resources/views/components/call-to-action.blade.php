@@ -1,6 +1,6 @@
 <!-- ====== Call To Action Section Start -->
 <section>
-    <div class=" bg-green-800 relative rounded overflow-hidden py-12 px-8 md:p-[70px] z-10 "
+    <div class="bg-green-800 relative rounded overflow-hidden py-12 px-8 md:p-[70px] z-10"
     >
         <div class="container mx-auto">
             <div class="flex flex-wrap items-center">
