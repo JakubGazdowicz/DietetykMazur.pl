@@ -15,10 +15,9 @@ class Navbar extends Component
     public function __construct()
     {
         $this->navigationItems = [
-            ['label' => 'Oferta', 'href' => '#offer'],
-            ['label' => 'Certyfikaty', 'href' => '#certificates'],
-            ['label' => 'Cennik', 'href' => '#price_list'],
-            ['label' => 'Kontakt', 'href' => '#contact'],
+            ['label' => 'Oferta', 'href' => '/#offer'],
+            ['label' => 'Certyfikaty', 'href' => '/certificates'],
+            ['label' => 'Kontakt', 'href' => '/#contact'],
         ];
     }
 

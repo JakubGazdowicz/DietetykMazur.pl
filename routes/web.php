@@ -18,5 +18,7 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::view('/certificates', 'certificates', ['name' => 'certificates']);
+
 
 Route::post('/contact/submit', [ContactController::class, 'submit']);

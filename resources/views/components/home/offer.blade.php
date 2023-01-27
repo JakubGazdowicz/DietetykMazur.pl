@@ -1,5 +1,5 @@
 <!-- ====== Cards Section Start -->
-<section class="bg-[#F3F4F6] pt-10 pb-10 lg:pt-[60px] lg:pb-20">
+<section class="bg-[#F3F4F6] pt-10 pb-10 lg:pt-[60px] lg:pb-20" id="offer">
     <div class="container mx-auto">
         <h2 class="font-bold text-3xl sm:text-4xl dark:text-gray-200 mb-8 text-center tracking-wider">
             Oferta
