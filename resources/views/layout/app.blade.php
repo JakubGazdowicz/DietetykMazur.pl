@@ -4,12 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>dietetykmazur.pl</title>
+    <title>Agnieszka Mazur</title>
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
+    <link rel="icon" href="{{ url('img/icon.png') }}">
 
     <!-- Styles -->
     <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
+
 </head>
 <body class="antialiased text-gray-800 dark:text-gray200">
     <div class="min-h-screen bg-gray-100 dark:bg-gray-900 pt-24">

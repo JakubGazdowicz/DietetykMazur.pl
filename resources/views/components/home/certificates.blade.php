@@ -5,7 +5,7 @@
                 Poznaj moje Certyfikaty
             </h2>
             </x-slot>
-            <x-button-link href="#" variant="lime" class="mr-3 text-xl" target="_blank">
+            <x-button-link href="/certificates" variant="lime" class="mr-3 text-xl">
                 Certyfikaty
             </x-button-link>
     </x-call-to-action>

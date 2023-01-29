@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  //darkMode: 'class',
+  darkMode: 'disable',
   content: [
       './storage/framework/views/*.php',
       './resources/**/*.blade.php',
@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {
         backgroundImage: {
-            'hero-pattern': "url('/img/omnietlo_test2.jpg')",
+            // 'hero-pattern': "url('/img/omnietlo_test2.jpg')",
         }
     },
   },
