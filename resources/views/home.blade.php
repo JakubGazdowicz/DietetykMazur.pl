@@ -3,7 +3,7 @@
     <x-home.certificates></x-home.certificates>
     <x-home.about></x-home.about>
     <x-home.offer></x-home.offer>
-    <x-home.food_diary></x-home.food_diary>
     <x-home.first_visit></x-home.first_visit>
+    <x-home.food_diary></x-home.food_diary>
     <x-home.contact></x-home.contact>
 </x-app-layout>

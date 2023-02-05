@@ -37,7 +37,7 @@
                     <h2 class="font-bold text-3xl sm:text-4xl dark:text-gray-200 mb-8">
                         O mnie
                     </h2>
-                    <p class="text-base dark:text-gray-400 mb-8">
+                    <p class="text-base text-justify dark:text-gray-400 mb-8">
                         Jako dietetyk z kilkuletnim stażem i gronem zadowolonych pacjentów,​ jestem w stanie zapewnić Państwu odpowiedni poziom wiedzy i wsparcia w dążeniu do realizowania dietetycznych celów. Ukończyłam studia licencjackie oraz magisterskie na Śląskim Uniwersytecie Medycznym
                         w Katowicach, specjalność  <span class="text-lime-600 font-bold">Dietetyka Kliniczna</span>. Uzyskałam dyplom Psychodietetyka na SWPS Katowice.
                         Uczestniczę w różnych kursach, warsztatach z dziedziny dietetyki i pracy z pacjentem. Nieustannie pogłębiam swoją wiedzę z zakresu współczesnej dietetyki, w tym dietetyki klinicznej oraz psychodietetyki.

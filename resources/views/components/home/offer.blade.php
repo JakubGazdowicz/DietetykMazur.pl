@@ -16,7 +16,7 @@
                         <h3 class="text-dark hover:text-primary mb-4 block text-xl font-semibold sm:text-[22px] md:text-xl lg:text-[22px] xl:text-xl 2xl:text-[22px] transition">
                             Zdrowie
                         </h3>
-                        <ul class="text-body-color mb-7 text-base leading-loose">
+                        <ul class="text-body-color mb-7 text-base leading-relaxed leading-loose">
                             <li>Żywienie w chorobach</li>
                             <li>Żywienie dzieci</li>
                             <li>Terapia otyłości i nadwagi</li>
@@ -54,7 +54,7 @@
                         <h3 class="text-dark hover:text-primary mb-4 block text-xl font-semibold sm:text-[22px] md:text-xl lg:text-[22px] xl:text-xl 2xl:text-[22px] transition">
                                 Dobre Samopoczucie
                         </h3>
-                        <ul class="text-body-color mb-7 text-base leading-loose">
+                        <ul class="text-body-color mb-7 text-base leading-relaxed leading-loose">
                             <li>Diety oczyszczające</li>
                         </ul>
                     </div>

@@ -21,7 +21,7 @@
                             <div class="w-full items-center md:flex">
                                 <div class="w-full">
                                     <div>
-                                        <p class="mb-11 text-base font-medium italic text-body-color sm:text-lg">
+                                        <p class="text-justify mb-11 text-base font-medium italic text-body-color sm:text-lg">
                                             &emsp; Przed pierwszą wizytą należy przygotować dzienniczek żywieniowy (<a href="http://dietawpraktyce.pl/wp-content/uploads/2020/01/dzienniczek-%C5%BCywieniowy-1.pdf" class="text-lime-500 u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" target="_blank">do pobrania tutaj</a>),
                                             czyli spis potraw, produktów i napojów spożytych w ciągu trzech dni. Dzienniczek ten zabieramy na pierwszą wizytę i posłuży on do oceny dotychczasowych nawyków żywieniowych.
                                             Jeśli posiadasz aktualne (z ostatniego półrocza) wyniki morfologii krwi, profil lipidowy (badanie poziomu cholesterolu), poziom TSH (badanie hormonów tarczycy) czy glikemię również zabierz je na pierwszą wizytę. Jeśli przewlekle chorujesz i jesteś po pobycie w szpitalu możesz zabrać wypis ze szpitala.
@@ -34,7 +34,7 @@
                             <div class="w-full items-center md:flex">
                                 <div class="w-full">
                                     <div>
-                                        <p class="mb-11 text-base font-medium italic text-body-color sm:text-lg">
+                                        <p class="text-justify mb-11 text-base font-medium italic text-body-color sm:text-lg">
                                             &emsp; Jeśli zażywasz leki lub suplementy diety, spisz je na kartce.
                                             Zastanów się jaki jest Twój cel wizyty u dietetyka oraz jakiego efektu stosowanej terapii się spodziewasz.
                                             Pierwsza wizyta trwa ok. 45 minut. Wizyty kontrolne trwają ok. 20-minut. Na pierwszej wizycie przeprowadzany jest wywiad żywieniowy (na temat preferencji żywieniowych, stylu życia) oraz wywiad zdrowotny. Odbywa się analiza składu ciała (ostatni posiłek oraz płyny należy przyjąć max. 2h przed pomiarem) wraz
@@ -48,7 +48,7 @@
                             <div class="w-full items-center md:flex">
                                 <div class="w-full">
                                     <div>
-                                        <p class="mb-11 text-base font-medium italic text-body-color sm:text-lg">
+                                        <p class="text-justify mb-11 text-base font-medium italic text-body-color sm:text-lg">
                                             &emsp; Wizyty kontrolne odbywają się zawsze dwa tygodnie po rozpoczęciu indywidualnego planu żywieniowego.
                                             Kolejne wizyty kontrolne są ustalane indywidualnie.
                                             Należy pamiętać, że regularne kontrolowanie postępów terapii zwiększa motywację
@@ -59,9 +59,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="absolute left-0 right-0 bottom-0 flex items-center justify-center lg:pl-[120px] 2xl:pl-0">
+                    <div class="absolute left-0 right-0 bottom-0 flex items-center justify-center">
                         <button
-                            class="mx-1 flex h-12 w-12 items-center justify-center rounded-full bg-white text-primary shadow-input transition-all hover:bg-primary hover:text-white"
+                            class="mx-1 flex h-14 w-14 items-center justify-center rounded-full bg-white text-primary shadow-input transition-all hover:bg-primary hover:text-white border-2"
                             @click="$refs.carousel.scrollLeft = $refs.carousel.scrollLeft - ($refs.carousel.scrollWidth / slides.length); activeSlide -= 1"
                         >
                             <svg
@@ -78,7 +78,7 @@
                             </svg>
                         </button>
                         <button
-                            class="mx-1 flex h-12 w-12 items-center justify-center rounded-full bg-white text-primary shadow-input transition-all hover:bg-primary hover:text-white"
+                            class="mx-1 flex h-14 w-14 items-center justify-center rounded-full bg-white text-primary shadow-input transition-all hover:bg-primary hover:text-white border-2"
                             @click="$refs.carousel.scrollLeft = $refs.carousel.scrollLeft + ($refs.carousel.scrollWidth / slides.length); activeSlide += 1"
                         >
                             <svg
