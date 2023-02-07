@@ -16,6 +16,7 @@ class Navbar extends Component
     {
         $this->navigationItems = [
             ['label' => 'Oferta', 'href' => '/#offer'],
+            ['label' => 'Cennik', 'href' => '/price_list'],
             ['label' => 'Certyfikaty', 'href' => '/certificates'],
             ['label' => 'Kontakt', 'href' => '/#contact'],
         ];

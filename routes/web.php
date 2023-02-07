@@ -20,5 +20,7 @@ Route::get('/', function () {
 
 Route::view('/certificates', 'certificates', ['name' => 'certificates']);
 
+Route::view('/price_list', 'price_list', ['name' => 'price_list']);
+
 
 Route::post('/contact/submit', [ContactController::class, 'submit']);
